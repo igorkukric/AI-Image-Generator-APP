@@ -1,4 +1,4 @@
-Plain JavaScript AI Image Generator App
+# AI Image Generator App
 Introduction
 
 Welcome to the Plain JavaScript AI Image Generator App, a simple application designed to generate images using artificial intelligence techniques. This app provides a user-friendly interface for users to create and customize images using AI algorithms.
