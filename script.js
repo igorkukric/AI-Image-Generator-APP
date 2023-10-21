@@ -1,6 +1,6 @@
 const apiKey = "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";
 
-const maxImages = 4; // Number of images to generate for each prompt
+const maxImages = 20; // Number of images to generate for each prompt
 let selectedImageNumber = null;
 
 // Function to generate random number between min and max (inclusive)
